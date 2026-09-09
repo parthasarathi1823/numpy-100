@@ -1,7 +1,7 @@
 # My NumPy 
 
 Forked from [rougier/numpy-100](https://github.com/rougier/numpy-100) (MIT License).
-My solutions are in `100_Numpy_exercises_with_hints.ipynb`.
+My solutions are in `100_Numpy_exercises.ipynb`.
 ---
 ## 100 numpy exercises
 
